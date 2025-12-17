@@ -5,14 +5,31 @@
 ```
 
 # Loon
-https://raw.githubusercontent.com/Tristan-1166/Modules/main/Loon/domain.plugin
-https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/Loon/plugins/ali-doh-domain.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/360-doh-domain.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/ali-doh-domain.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/ali-quic.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/bd-dns.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/btdc-dns.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/system-dns.plugin
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Loon/plugins/tc-doh-domain.plugin
 
-# Surge
-https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain.sgmodule
-https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/alibaba_dns.txt
-https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/system_dns.txt
-https://raw.githubusercontent.com/Tristan-1166/Modules/main/Surge/domain-sets/tencent_dns.txt
+# Surge-Modules
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/360-doh-domain.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/ali-doh-domain.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/ali-quic.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/bd-dns.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/btdc-dns.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/system-dns.sgmodule
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/modules/tc-doh-domain.sgmodule
+
+# Surge-txts
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/360-doh-domain.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/ali-doh-domain.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/ali-quic.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/bd-dns.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/btdc-dns.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/system-dns.txt
+https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/refs/heads/main/export/Surge/txts/tc-doh-domain.txt
 ```
 
 ### 更新频率
