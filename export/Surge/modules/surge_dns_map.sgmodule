@@ -1,12 +1,10 @@
 #!name=DnsMap
-#!desc=最后更新时间 2025-12-17 23:34:40
-# 规则集数量：7
+#!desc=最后更新时间 2025-12-18 02:54:45
+# 规则集数量：5
 
 [Rule]
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/360-doh-domain.conf = server:https://doh.360.cn/dns-query
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/ali-doh-domain.conf = server:https://dns.alidns.com/dns-query
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/ali-quic.conf = server:quic://dns.alidns.com:853
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/bd-dns.conf = server:180.76.76.76
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/btdc-dns.conf = server:180.184.1.1
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/system-dns.conf = server:system
-RULE-SET:https://raw.githubusercontent.com/Tristan-1166/Wizards-Chess/main/export/Surge/confs/tc-doh-domain.conf = server:https://doh.pub/dns-query
+RULE-SET:export/Surge/confs/360-doh-domain.conf = server:https://doh.360.cn/dns-query
+RULE-SET:export/Surge/confs/alibaba-doh-domain.conf = server:https://dns.alidns.com/dns-query
+RULE-SET:export/Surge/confs/alibaba-quic.conf = server:quic://dns.alidns.com:853
+RULE-SET:export/Surge/confs/system-dns.conf = server:system
+RULE-SET:export/Surge/confs/tencent-doh-domain.conf = server:https://doh.pub/dns-query
