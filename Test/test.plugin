@@ -9,13 +9,13 @@
 # dns_server = input,"system",tag=DNS服务器,desc=请输入DNS服务器地址。\n支持格式:\n- 普通DNS: 8.8.8.8\n- DoH: https://dns.google/dns-query\n- DoH3: h3://dns.google/dns-query\n- DoQ: quic://dns.google\n- system(使用系统DNS)
 dns_server = input,"system",tag=DNS服务器,desc=请输入DNS服务器地址，示例: https://1.1.1.1/dns-query
 
-[host]
-*.bh3.com = server:{dns_server}
-*.mihoyo.com = server:{dns_server}
-*.yuanshen.com = server:{dns_server}
-*-os.yuanshen.com = server:{dns_server}
-*.qq.com = server:{dns_server}
-*.tencent.com = server:{dns_server}
-*.weixin.com = server:{dns_server}
-*.wechat.com = server:{dns_server}
-*.tenpay.com = server:{dns_server}
+[Host]
+*.bh3.com = server:dns_server
+*.mihoyo.com = server:dns_server
+*.yuanshen.com = server:dns_server
+*-os.yuanshen.com = server:dns_server
+*.qq.com = server:dns_server
+*.tencent.com = server:dns_server
+*.weixin.com = server:dns_server
+*.wechat.com = server:dns_server
+*.tenpay.com = server:dns_server
