@@ -1,6 +1,6 @@
-#!date = 2026-01-29 06:17:05
+#!date = 2026-01-30 06:17:23
 # DNS：quic://dns.alidns.com:853
-# 数量：210
+# 数量：211
 
 [Host]
 *.taobao.com = server:quic://dns.alidns.com:853
@@ -157,6 +157,8 @@ alipay.cn = server:quic://dns.alidns.com:853
 uczzd.cn = server:quic://dns.alidns.com:853
 *.tbcdn.cn = server:quic://dns.alidns.com:853
 tbcdn.cn = server:quic://dns.alidns.com:853
+*.quark.cn = server:quic://dns.alidns.com:853
+quark.cn = server:quic://dns.alidns.com:853
 *.alios.cn = server:quic://dns.alidns.com:853
 alios.cn = server:quic://dns.alidns.com:853
 ali-safety-video.acfun.cn = server:quic://dns.alidns.com:853
