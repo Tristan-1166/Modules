@@ -1,4 +1,4 @@
-#!date = 2026-09-09 07:44:21
+#!date = 2026-09-10 07:38:35
 # DNS：https://dns.alidns.com/dns-query
 # 数量：187
 
@@ -49,8 +49,8 @@ baiducontent.com = server:https://dns.alidns.com/dns-query
 live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.ecombdimg.com = server:https://dns.alidns.com/dns-query
 *.ecombdstatic.com = server:https://dns.alidns.com/dns-query
-*.178linux.com = server:https://dns.alidns.com/dns-query
 *.csdn.net = server:https://dns.alidns.com/dns-query
+*.178linux.com = server:https://dns.alidns.com/dns-query
 *.sina.com = server:https://dns.alidns.com/dns-query
 *.sina.net = server:https://dns.alidns.com/dns-query
 *.sinaapp.com = server:https://dns.alidns.com/dns-query
@@ -103,7 +103,6 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.i178.info = server:https://dns.alidns.com/dns-query
 *.imgsina.com = server:https://dns.alidns.com/dns-query
 *.imgsohu.com = server:https://dns.alidns.com/dns-query
-*.ithome.net = server:https://dns.alidns.com/dns-query
 *.izhihuicheng.net = server:https://dns.alidns.com/dns-query
 *.izhihuo.com = server:https://dns.alidns.com/dns-query
 *.kmzhihuitong.com = server:https://dns.alidns.com/dns-query
@@ -197,6 +196,7 @@ live.zhihuizq.com = server:https://dns.alidns.com/dns-query
 *.ximalaya.fm = server:https://dns.alidns.com/dns-query
 *.ximalaya.tv = server:https://dns.alidns.com/dns-query
 *.ximalayadata.com = server:https://dns.alidns.com/dns-query
+*.ithome.net = server:https://dns.alidns.com/dns-query
 *.sinanode.com = server:https://dns.alidns.com/dns-query
 *.sinas3.net = server:https://dns.alidns.com/dns-query
 *.sohumail.com = server:https://dns.alidns.com/dns-query
